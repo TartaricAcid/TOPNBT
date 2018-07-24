@@ -1,0 +1,71 @@
+[{
+  "id": "minecraft:chest",
+  "meta": 0,
+  "border_color": "ffffff",
+  "spacing": 2,
+  "content": {
+    "normal": [{
+      "type": "text",
+      "string": "你好，世界！"
+    }, {
+      "type": "progress",
+      "percent": "{BurnTime}/{CookTime}",
+      "progress_style": {
+        "border_color": "ffffff",
+        "background_color": "ffffff",
+        "filled_color": "ffffff",
+        "alternate_filled_color": "ffffff",
+        "numberFormat": "full",
+        "show_text": true,
+        "prefix": "进度：",
+        "suffix": "%",
+        "width": 50,
+        "height": 100
+      }
+    }],
+    "extended": [{
+      "type": "text",
+      "string": "你好，世界！"
+    }, {
+      "type": "text",
+      "string": "烧制时间：{BurnTime}/{CookTime}"
+    }, {
+      "type": "progress",
+      "percent": "{BurnTime}/{CookTime}",
+      "progress_style": {
+        "border_color": "ffffff",
+        "background_color": "ffffff",
+        "filled_color": "ffffff",
+        "alternate_filled_color": "ffffff",
+        "numberFormat": "full",
+        "show_text": true,
+        "prefix": "进度：",
+        "suffix": "%",
+        "width": 50,
+        "height": 100
+      }
+    }],
+    "debug": [{
+      "type": "text",
+      "string": "你好，世界！"
+    }, {
+      "type": "text",
+      "string": "烧制时间：{BurnTime}/{CookTime}"
+    }, {
+      "type": "progress",
+      "percent": "{BurnTime}/{CookTime}",
+      "progress_style": {
+        "border_color": "ffffff",
+        "background_color": "ffffff",
+        "filled_color": "ffffff",
+        "alternate_filled_color": "ffffff",
+        "numberFormat": "full",
+        "show_text": true,
+        "prefix": "进度：",
+        "suffix": "%",
+        "width": 50,
+        "height": 100
+      }
+    }]
+  }
+}]

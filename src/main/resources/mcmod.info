@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "topnbt",
+    "name": "TopNbt",
+    "description": "A TheOneProbe addons that add custom nbt function",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "TartaricAcid"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
